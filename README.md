@@ -23,7 +23,7 @@ An AI-based digital library that leverages advanced AI, RAG (Retrieval-Augmented
 
 ## Project Structure
 ```
-vinitngr-iolib/
+iolib/
 ├── client/          # Frontend (React, Vite)
 ├── server/          # Backend (Node.js, Express, TypeScript)
 ├── practice-js/     # JS practice and RAG experiments
